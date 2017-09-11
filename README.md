@@ -36,7 +36,7 @@ Shortcuts can be changed in `zencoding/plugin.py` to fit your needs.
 Installation
 ------------
 
-1. Download [zip](http://github.com/mikecrittenden/zen-coding-gedit/zipball/master) or [tar](http://github.com/mikecrittenden/zen-coding-gedit/tarball/master) source and unpack it.
+1. Download [zip](http://github.com/ardanees-jatali/zen-coding-gedit/zipball/master) or [tar](http://github.com/ardanees-jatali/zen-coding-gedit/tarball/master) source and unpack it.
 2. Move `zencoding.gedit-plugin` and the `zencoding` folder into `~/.gnome2/gedit/plugins/` 
 3. In Gedit, go to Edit &rarr; Preferences &rarr; Plugins to enable the plugin.
 4. Try it out using the shortcut keys listed above.
